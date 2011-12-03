@@ -14,7 +14,7 @@ augroup vimrc
 autocmd!
 augroup end
 
-" カーソルキーを殺す {{{1
+" カーソルキー {{{1
 imap <C-j> <Down>
 imap <C-k> <Up>
 imap <C-h> <Left>
